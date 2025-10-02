@@ -1,0 +1,5 @@
+{
+  "name": "Live Code Previewer",
+  "description": "An interactive code previewer app that takes HTML, CSS, and JavaScript code as input and renders a live preview in real-time. Features a split interface, syntax highlighting, project management, and a clean, modern UI.",
+  "requestFramePermissions": []
+}
